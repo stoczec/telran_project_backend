@@ -1,5 +1,5 @@
 # dependencies
-/node_modules
+
 /parser
 /.pnp
 .pnp.js
